@@ -36,18 +36,18 @@ redirect_from:
 
 # 📝 Research Interests
 Yeqiang Wang's academic and research endeavors are centered around the cutting-edge domains of:
-- **AI4S**
 - **LLM (MLLM)**
-- **Embodied AI**
+- **Embodied AI (VLA)**
 
 You are welcome to contact him via email or WeChat.
 - **WeChat**: **Muchenxixi_**
 - **Email**: **wangyeqiang@nwafu.edu.cn**, **wangyeqianger@126.com**
 
 Other platform links:
-[GitHub](https://github.com/WangYeQianger) | [Gitee](https://gitee.com/Muchenxixi) | [知乎](https://www.zhihu.com/people/xi-xi-22-16-95) | [CSDN](https://blog.csdn.net/Muchenxi_?spm=1000.2115.3001.5343) | [CV](/assets/PDF/CV/250409_个人简历_王业强.pdf)
+[小红书](https://www.xiaohongshu.com/user/profile/60f0357f0000000001001b50) | [知乎](https://www.zhihu.com/people/xi-xi-22-16-95) | [GitHub](https://github.com/WangYeQianger) | [Gitee](https://gitee.com/Muchenxixi) | 
 
-
+<!-- [CV](/assets/PDF/CV/250409_个人简历_王业强.pdf) -->
+<!-- [CSDN](https://blog.csdn.net/Muchenxi_?spm=1000.2115.3001.5343) -->
 
 <span class='anchor' id='-News'></span>
 # 🔥 News
