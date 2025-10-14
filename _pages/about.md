@@ -40,11 +40,12 @@ Yeqiang Wang's academic and research endeavors are centered around the cutting-e
 - **Embodied AI (VLA)**
 
 You are welcome to contact him via email or WeChat.
+- **Email**:  **Wangyeqianger@126.com**
 - **WeChat**: **Muchenxixi_**
-- **Email**: **wangyeqiang@nwafu.edu.cn**, **wangyeqianger@126.com**
+
 
 Other platform links:
-[小红书](https://www.xiaohongshu.com/user/profile/60f0357f0000000001001b50) | [知乎](https://www.zhihu.com/people/xi-xi-22-16-95) | [Bilibili](https://space.bilibili.com/492589290?spm_id_from=333.1007.0.0) | [GitHub](https://github.com/WangYeQianger) | [Gitee](https://gitee.com/Muchenxixi)
+[小红书 (汐汐同学: 6385685044)](https://www.xiaohongshu.com/user/profile/60f0357f0000000001001b50) | [知乎 (汐汐同学)](https://www.zhihu.com/people/xi-xi-22-16-95) | [Bilibili (沐晨汐er_)](https://space.bilibili.com/492589290?spm_id_from=333.1007.0.0) | [GitHub](https://github.com/WangYeQianger) | [Gitee](https://gitee.com/Muchenxixi)
 
 <!-- [CV](/assets/PDF/CV/250409_个人简历_王业强.pdf) -->
 <!-- [CSDN](https://blog.csdn.net/Muchenxi_?spm=1000.2115.3001.5343) -->
