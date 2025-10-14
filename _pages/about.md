@@ -26,9 +26,9 @@ redirect_from:
 
 # 📖 Personal Profile
 
-<!-- > **Yeqiang Wang (王业强)** is currently pursuing his B.S. degree in Software Engineering (Class of 2026) at [Northwest A&F University](https://www.nwafu.edu.cn/). He is a recommended graduate student for the Class of 2026. -->
+<!-- **Yeqiang Wang (王业强)** is currently pursuing his B.S. degree in Software Engineering (Class of 2026) at [Northwest A&F University](https://www.nwafu.edu.cn/). He is a recommended graduate student for the Class of 2026. -->
 
-**Yeqiang Wang (王业强)** is currently pursuing his B.S. degree in Software Engineering (Class of 2026) at [Northwest A&F University](https://www.nwafu.edu.cn/). He is a recommended graduate student for the Class of 2026.
+I am **Yeqiang Wang (王业强)**, a Ph.D. candidate in the Class of 2026 at the School of Computer Science, [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/). I am also a joint Ph.D. candidate with [Shanghai Innovation Institute (SII)](https://www.sii.edu.cn/main.htm). My research interests focus on Embodied Intelligence (VLA). I welcome academic discussions.
 
 <!-- You are welcome to contact him via email or WeChat: **Muchenxixi_**.  
 **Email**: wangyeqiang@nwafu.edu.cn | wangyeqianger@126.com  
@@ -44,13 +44,17 @@ You are welcome to contact him via email or WeChat.
 - **Email**: **wangyeqiang@nwafu.edu.cn**, **wangyeqianger@126.com**
 
 Other platform links:
-[小红书](https://www.xiaohongshu.com/user/profile/60f0357f0000000001001b50) | [知乎](https://www.zhihu.com/people/xi-xi-22-16-95) | [GitHub](https://github.com/WangYeQianger) | [Gitee](https://gitee.com/Muchenxixi) | 
+[小红书](https://www.xiaohongshu.com/user/profile/60f0357f0000000001001b50) | [知乎](https://www.zhihu.com/people/xi-xi-22-16-95) | [Bilibili](https://space.bilibili.com/492589290?spm_id_from=333.1007.0.0) | [GitHub](https://github.com/WangYeQianger) | [Gitee](https://gitee.com/Muchenxixi)
 
 <!-- [CV](/assets/PDF/CV/250409_个人简历_王业强.pdf) -->
 <!-- [CSDN](https://blog.csdn.net/Muchenxi_?spm=1000.2115.3001.5343) -->
 
 <span class='anchor' id='-News'></span>
 # 🔥 News
+
+- <span style="color: red; font-weight: bold;">[2025/09]</span>   As the co-second author, Yeqiang has one paper accepted by <b>NeurIPS (CCF-A, 2025).</b> 
+
+- <span style="color: red; font-weight: bold;">[2025/08]</span>   As the third author, Yeqiang has one paper accepted by <b>EMNLP (CCF-B, 2025).</b> 
 
 - <span style="color: red; font-weight: bold;">[2025/03]</span>   As the first author, Yeqiang has one paper accepted by <b>JBHI (CCF-C, IF=6.7, 2025).</b> 
 
@@ -110,6 +114,7 @@ Other platform links:
 # 🥇 Honors and Awards
 - **National Scholarship** (Top 1.60%), Northwest A&F University (October 2023)  
 - **National Scholarship** (Top 1.60%), Northwest A&F University (October 2024)  
+- **National Scholarship** (Top 1.60%), Northwest A&F University (October 2025) 
 - **Ranked 1/129** in major (0.78%) and **1/334** in school (0.30%), Northwest A&F University (2025)  
 - **Second Prize (National) & First Prize (Northwest Division)**, 17th China Undergraduate Computer Design Contest (July 2024)  
 - **First Prize (Shaanxi Province)**, National Undergraduate Mathematical Contest in Modeling (December 2023)  

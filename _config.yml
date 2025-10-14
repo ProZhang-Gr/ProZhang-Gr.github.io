@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yeqiang Wang"
-description              : "AI4S & LLM"
+description              : "VLA & MLLM"
 repository               : "WangYeQianger/wangyeqianger.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yeqiang Wang"
   avatar           : "images/personal-photo.jpg"
-  bio              : "Nwafu University"
-  location         : "Yanglin China"
+  bio              : "SJTU & SII"
+  location         : "Shanghai China"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=0NrhC2gAAAAJ&hl=zh-CN"
