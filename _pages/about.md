@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yeqiang Wang's Personal Profile"
+title: "Zihan Zhang's Personal Profile"
 author_profile: true
 redirect_from:
   - /about/
