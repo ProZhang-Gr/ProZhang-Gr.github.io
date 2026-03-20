@@ -163,14 +163,38 @@ Design of Tendon-Driven Dexterous Hand
 <div class="image-carousel">
   <div class="carousel-items">
     <!-- Add images inside this wrapper -->
-    <img src="images/Personal_Imgs/HDC2024.jpg" alt="HDC 2024, Shenzhen">
-    <img src="images/Personal_Imgs/1.jpg" alt="my photo 1, Shenzhen">
-    <img src="images/Personal_Imgs/2.jpg" alt="my photo 2, Shenzhen">
-    <img src="images/Personal_Imgs/3.jpg" alt="my photo 3, X Lab">
-    <img src="images/Personal_Imgs/4.jpg" alt="my photo 4, Macau">
-    <img src="images/Personal_Imgs/5.jpg" alt="my photo 5, Shenzhen">
+    <img src="images/Personal_Imgs/1.jpg" >
+    <img src="images/Personal_Imgs/2.jpg" >
+    <img src="images/Personal_Imgs/3.jpg" >
+    <img src="images/Personal_Imgs/4.jpg" >
+    <img src="images/Personal_Imgs/5.jpg" >
+    <img src="images/Personal_Imgs/6.jpg" >
+    <img src="images/Personal_Imgs/1.jpg">
+    <img src="images/Personal_Imgs/2.jpg">
+    <img src="images/Personal_Imgs/3.jpg">
+    <img src="images/Personal_Imgs/4.jpg">
+    <img src="images/Personal_Imgs/5.jpg">
+    <img src="images/Personal_Imgs/6.jpg">
   </div>
 </div>
+
+
+<span class='anchor' id='-about-more'></span>
+# 🙋 如果你想了解我
+
+我正处于推免阶段，欢迎您了解我的个人细节，希望这对您了解我能有所帮助。
+
+我的科研生活起始于2025年年初，我追随我院老师进行生信研究，期间独立完成所有工作，我所发表的论文均为独立一作。感谢我的老师[张宇辰](https://cie.nwsuaf.edu.cn/szdw/jiangshi/2022110148/index.htm)先生给予我莫大的支持，也感谢我的学长[王业强](https://github.com/WangYeQianger)带领我初识科研。
+
+我的座右铭是"学的时候认真学，玩的时候好好玩"。我想我具备一定的抗压能力和理性思考能力。我个人性格开朗，喜欢沉浸在自己所提出的问题中，享受自言自语似的推理与一步步自圆其说，从中获得正反馈——这种方法我常常用在科研工作中，在这种状态下，我走了很远的路。
+
+我接受直博与硕博连读，因为我相信自己的能力。另一方面，在研究AI4SCI的过程中，我诞生了对AI机理研究的渴望，想要从事一些深层次的研究，解决我长久以来关于大模型、Transformer机理上的困惑。AI发展正如日中天，未来十年也不会落幕，我期待这场蛰伏，等待夏夜的到来。
+
+我喜欢摄影，我是一个浪漫的人，我相信自己的审美（你可以看到我两篇论文图摘要的配色，想必还算ok）。
+
+我期待前往北京的高校，若能力尚有不足，也会尝试北京中关村联培项目。
+
+我期待我的导师严肃科研、生活活泼，能给予我科研上的解惑，也能因我的成就真切感到高兴。
 
 <!-- <span class='anchor' id='-VisitMap'></span> -->
 
