@@ -29,9 +29,8 @@ redirect_from:
 <!-- **Yeqiang Wang (王业强)** is currently pursuing his B.S. degree in Software Engineering (Class of 2026) at [Northwest A&F University](https://www.nwafu.edu.cn/). He is a recommended graduate student for the Class of 2026. -->
 
 I am **Zihan Zhang (张子涵)**, a third-year undergraduate student at the School of Computer Science, [Northwest A&F University (NWAFU)](https://www.nwsuaf.edu.cn/). My research interests span **Artificial Intelligence**, **Machine Learning**, **Large Language Models (LLMs)**, **Graph Neural Networks (GNNs)**, and **AI for Science (AI4SCI)**. I am passionate about exploring the intersection of these fields and welcome academic discussions.
-Feel free to reach out via email or WeChat.
-- **Email**: stuzzh@163.com
-- **WeChat**: Z2844875842
+
+
 
 <!-- You are welcome to contact him via email or WeChat: **Muchenxixi_**.  
 **Email**: wangyeqiang@nwafu.edu.cn | wangyeqianger@126.com  
@@ -40,8 +39,8 @@ Feel free to reach out via email or WeChat.
 
 
 You are welcome to contact him via email or WeChat.
-- **Email**:  **Wangyeqianger@126.com**
-- **WeChat**: **Muchenxixi_**
+- **Email**: stuzzh@163.com
+- **WeChat**: Z2844875842
 
 
 Other platform links:
@@ -77,7 +76,7 @@ Other platform links:
       <li><i>JCIM</i> 2026. (JCR:Q1, IF:5.3)</li>
       <!-- <li><a href="https://arxiv.org/abs/2402.05725">Link</a> |  -->
       <li><a href="https://pubs.acs.org/doi/full/10.1021/acs.jcim.5c03011">Link</a>
-      <a href="https://github.com/ProZhang-Gr/NCRDLLM">GitHub</a></li>
+      <a href="https://github.com/ProZhang-Gr/NCRDLLM">Code</a></li>
     </ul>
   </div>
 </div>
@@ -97,7 +96,7 @@ Other platform links:
       <li><i>JBHI</i> 2025. (JCR:Q1, IF:6.8)</li>
       <!-- <li><a href="https://arxiv.org/abs/2402.05725">Link</a> |  -->
       <li><a href="https://ieeexplore.ieee.org/document/11319154">Link</a>
-      <a href="https://github.com/ProZhang-Gr/CDBGT">GitHub</a></li>
+      <a href="https://github.com/ProZhang-Gr/CDBGT">Code</a></li>
     </ul>
   </div>
 </div>
