@@ -72,7 +72,7 @@ Other platform links:
   <div class='paper-box-text'>
     <ul>
       <li>NCRDLLM: Predicting ncRNA-Drug Response Associations via Multimodal Feature Fusion and Large Language Models</li>
-      <li><strong>Zihan Zhang</strong>, Yuchen Zhang*, Xiujuan Lei.</li>
+      <li><strong>Zihan Zhang</strong>, Yuchen Zhang*.</li>
       <li><i>JCIM</i> 2026. (JCR:Q1, IF:5.3)</li>
       <!-- <li><a href="https://arxiv.org/abs/2402.05725">Link</a> |  -->
       <li><a href="https://pubs.acs.org/doi/full/10.1021/acs.jcim.5c03011">Link</a>
