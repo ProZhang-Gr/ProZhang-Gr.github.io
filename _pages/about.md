@@ -23,12 +23,9 @@ redirect_from:
   }
 
   .future-label {
-    font-weight: bold;
-    font-size: 1em;
     border-left: 3px solid #4a90d9;
     padding-left: 10px;
-    margin: 16px 0 8px;
-    display: block;
+    margin: 16px 0 4px;
   }
 
   blockquote {
@@ -162,7 +159,7 @@ Design of Tendon-Driven Dexterous Hand
   .image-carousel .carousel-items {
     display: flex;
     width: max-content;
-    animation: scroll-images 20s linear infinite;
+    animation: scroll-images 32s linear infinite;
   }
 
   .image-carousel .carousel-items:hover {
@@ -212,15 +209,14 @@ Design of Tendon-Driven Dexterous Hand
 
 我的科研生活起始于2025年年初，我追随我院老师进行生信研究，期间独立完成所有工作，我所发表的论文均为独立一作。感谢我的老师[张宇辰](https://cie.nwsuaf.edu.cn/szdw/fjs/2022110148/index.htm)先生给予我莫大的支持。
 
-<div class=”info-block”>
-<strong>我的工作与思维方式</strong>：规划大于执行，确定了喜欢的方向和工作就会沉浸其中，有时会自言自语地分析问题，我尽力去找一种让自己信服的解释。对于熬夜工作与组会我并不排斥，重点取决于是否享受这份工作，所以方向对我来说很重要。我很擅长规划时间与任务分配，习惯于总结阶段性工作，很少会感到匆忙。
-</div>
+**我的工作与思维方式**：规划大于执行，确定了喜欢的方向和工作就会沉浸其中，有时会自言自语地分析问题，我尽力去找一种让自己信服的解释。对于熬夜工作与组会我并不排斥，重点取决于是否享受这份工作，所以方向对我来说很重要。我很擅长规划时间与任务分配，习惯于总结阶段性工作，很少会感到匆忙。
+{: .info-block}
 
-<div class=”info-block”>
-<strong>我的性格与审美</strong>：性格十分外向，对于social能力比较自信（我带领的黑客松队伍拿下了决赛第四，小组成员结下了深厚的友谊😊），信奉”玩的时候好好玩，学的时候认真学”。个人对配色和摄影比较感兴趣，运动主要是羽毛球。
-</div>
+**我的性格与审美**：性格十分外向，对于social能力比较自信（我带领的黑客松队伍拿下了决赛第四，小组成员结下了深厚的友谊😊），信奉”玩的时候好好玩，学的时候认真学”。个人对配色和摄影比较感兴趣，运动主要是羽毛球。
+{: .info-block}
 
-<span class=”future-label”>我对未来的想法</span>
+**我对未来的想法**
+{: .future-label}
 
 我比较倾向于直博，用五年的时光做连续的深入工作。未来的发展侧重于AI端而非SCI端，即探索作为大脑的LLM/Agent，可以接受以SCI为应用实践的阶段性项目，但不想一直做SCI。追逐原理会让我信服自己的工作。
 
@@ -230,9 +226,8 @@ Design of Tendon-Driven Dexterous Hand
 
 AI发展正如日中天，未来十年也不会落幕。我期待这场蛰伏，等待夏夜的到来。
 
-<div class=”info-block”>
-<strong>我对导师的期待</strong>：严肃科研，活泼生活。能在我困惑时给予指点，也能因我的成就真切感到高兴。
-</div>
+**我对导师的期待**：严肃科研，活泼生活。能在我困惑时给予指点，也能因我的成就真切感到高兴。
+{: .info-block}
 
 ---
 
