@@ -10,8 +10,34 @@ redirect_from:
 <!-- Custom styles to increase font size -->
 <style>
   body {
-    font-size: 17px; /* Adjust the font size as needed */
-    line-height: 1.6; /* Optional: adjust line height for better readability */
+    font-size: 17px;
+    line-height: 1.6;
+  }
+
+  .info-block {
+    border-left: 3px solid #4a90d9;
+    padding: 8px 14px;
+    margin: 14px 0;
+    background: rgba(74, 144, 217, 0.04);
+    border-radius: 0 6px 6px 0;
+  }
+
+  .future-label {
+    font-weight: bold;
+    font-size: 1em;
+    border-left: 3px solid #4a90d9;
+    padding-left: 10px;
+    margin: 16px 0 8px;
+    display: block;
+  }
+
+  blockquote {
+    border-left: 4px solid #e8a838;
+    background: rgba(232, 168, 56, 0.07);
+    padding: 12px 18px;
+    border-radius: 0 8px 8px 0;
+    font-style: italic;
+    margin: 16px 0;
   }
 </style>
 
@@ -44,7 +70,7 @@ You are welcome to contact him via email or WeChat.
 
 
 Other platform links:
- [归山](https://www.zhihu.com/people/4-32-48-46) | [Bilibili (就叫张某人)](https://space.bilibili.com/481176872?spm_id_from=333.1007.0.0) | [GitHub](__https://github.com/ProZhang-Gr__)
+ [归山](https://www.zhihu.com/people/4-32-48-46) | [Bilibili (就叫张某人)](https://space.bilibili.com/481176872?spm_id_from=333.1007.0.0) | [GitHub](https://github.com/ProZhang-Gr)
 
 <!-- [CV](/assets/PDF/CV/250409_个人简历_王业强.pdf) -->
 <!-- [CSDN](https://blog.csdn.net/Muchenxi_?spm=1000.2115.3001.5343) -->
@@ -107,10 +133,10 @@ Other platform links:
 
 <span class='anchor' id='-Honors-and-Awards'></span>
 # 🥇 Honors and Awards
-- **National Scholarship**, Ministry of Education of the People's Republic of China (December 2025)
-- **First Prize (Shaanxi Province)**, National Undergraduate Mathematical Contest in Modeling (December 2024)
-- **Second Prize (Non-Math A)**, 16th National Undergraduate Mathematics Competition (December 2024)
-- **Meritorious Winner (H Prize)**, Mathematical Contest in Modeling (MCM/ICM), COMAP (May 2025)
+- 🏆 **National Scholarship**, Ministry of Education of the People's Republic of China (December 2025)
+- 🥇 **First Prize (Shaanxi Province)**, National Undergraduate Mathematical Contest in Modeling (December 2024)
+- 🥈 **Second Prize (Non-Math A)**, 16th National Undergraduate Mathematics Competition (December 2024)
+- 🎖️ **Meritorious Winner (H Prize)**, Mathematical Contest in Modeling (MCM/ICM), COMAP (May 2025)
 
 <!-- # 💻 Internships
 -Tencent Technology (Shenzhen) Co., Ltd. 
@@ -126,55 +152,55 @@ Design of Tendon-Driven Dexterous Hand
 # 📸 Pics
 
 <style>
-  /* Contain the entire image gallery in a container */
   .image-carousel {
-    display: flex;
-    overflow: hidden; /* Hide the extra images outside the container */
-    width: 100%; /* Make it responsive */
-    justify-content: space-around; /* Ensure images are spaced evenly */
+    overflow: hidden;
+    width: 100%;
+    -webkit-mask-image: linear-gradient(to right, transparent, black 8%, black 92%, transparent);
+    mask-image: linear-gradient(to right, transparent, black 8%, black 92%, transparent);
   }
 
-  /* Create the scroll effect with animation */
   .image-carousel .carousel-items {
     display: flex;
-    animation: scroll-images 15s linear infinite; /* Animation name, duration, timing function, and repeat */
+    width: max-content;
+    animation: scroll-images 20s linear infinite;
   }
 
-  /* Define the scrolling animation */
+  .image-carousel .carousel-items:hover {
+    animation-play-state: paused;
+  }
+
   @keyframes scroll-images {
-    0% {
-      transform: translateX(0);
-    }
-    100% {
-      transform: translateX(-100%); /* Move the container to the left, fully scrolling the images */
-    }
+    0%   { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
   }
 
-  /* Style the images */
   .image-carousel img {
-    width: 500px;
-    height: 300px; /* Set consistent height for all images */
+    width: 420px;
+    height: 280px;
     object-fit: cover;
-    margin-right: 20px; /* Add space between images */
+    margin-right: 16px;
+    border-radius: 8px;
   }
 </style>
 
-<!-- Image carousel wrapper -->
 <div class="image-carousel">
   <div class="carousel-items">
-    <!-- Add images inside this wrapper -->
-    <img src="images/Personal_Imgs/1.jpg" >
-    <img src="images/Personal_Imgs/2.jpg" >
-    <img src="images/Personal_Imgs/3.jpg" >
-    <img src="images/Personal_Imgs/4.jpg" >
-    <img src="images/Personal_Imgs/5.jpg" >
-    <img src="images/Personal_Imgs/6.jpg" >
     <img src="images/Personal_Imgs/1.jpg">
     <img src="images/Personal_Imgs/2.jpg">
     <img src="images/Personal_Imgs/3.jpg">
     <img src="images/Personal_Imgs/4.jpg">
     <img src="images/Personal_Imgs/5.jpg">
     <img src="images/Personal_Imgs/6.jpg">
+    <img src="images/Personal_Imgs/7.jpg">
+    <img src="images/Personal_Imgs/8.jpg">
+    <img src="images/Personal_Imgs/1.jpg">
+    <img src="images/Personal_Imgs/2.jpg">
+    <img src="images/Personal_Imgs/3.jpg">
+    <img src="images/Personal_Imgs/4.jpg">
+    <img src="images/Personal_Imgs/5.jpg">
+    <img src="images/Personal_Imgs/6.jpg">
+    <img src="images/Personal_Imgs/7.jpg">
+    <img src="images/Personal_Imgs/8.jpg">
   </div>
 </div>
 
@@ -186,11 +212,15 @@ Design of Tendon-Driven Dexterous Hand
 
 我的科研生活起始于2025年年初，我追随我院老师进行生信研究，期间独立完成所有工作，我所发表的论文均为独立一作。感谢我的老师[张宇辰](https://cie.nwsuaf.edu.cn/szdw/fjs/2022110148/index.htm)先生给予我莫大的支持。
 
-**我的工作与思维方式**：规划大于执行，确定了喜欢的方向和工作就会沉浸其中，有时会自言自语地分析问题，我尽力去找一种让自己信服的解释。对于熬夜工作与组会我并不排斥，重点取决于是否享受这份工作，所以方向对我来说很重要。我很擅长规划时间与任务分配，习惯于总结阶段性工作，很少会感到匆忙。
+<div class=”info-block”>
+<strong>我的工作与思维方式</strong>：规划大于执行，确定了喜欢的方向和工作就会沉浸其中，有时会自言自语地分析问题，我尽力去找一种让自己信服的解释。对于熬夜工作与组会我并不排斥，重点取决于是否享受这份工作，所以方向对我来说很重要。我很擅长规划时间与任务分配，习惯于总结阶段性工作，很少会感到匆忙。
+</div>
 
-**我的性格与审美**：性格十分外向，对于social能力比较自信（我带领的黑客松队伍拿下了决赛第四，小组成员结下了深厚的友谊^.^），信奉”玩的时候好好玩，学的时候认真学”。个人对配色和摄影比较感兴趣，运动主要是羽毛球。
+<div class=”info-block”>
+<strong>我的性格与审美</strong>：性格十分外向，对于social能力比较自信（我带领的黑客松队伍拿下了决赛第四，小组成员结下了深厚的友谊😊），信奉”玩的时候好好玩，学的时候认真学”。个人对配色和摄影比较感兴趣，运动主要是羽毛球。
+</div>
 
-**我对未来的想法**：
+<span class=”future-label”>我对未来的想法</span>
 
 我比较倾向于直博，用五年的时光做连续的深入工作。未来的发展侧重于AI端而非SCI端，即探索作为大脑的LLM/Agent，可以接受以SCI为应用实践的阶段性项目，但不想一直做SCI。追逐原理会让我信服自己的工作。
 
@@ -200,7 +230,9 @@ Design of Tendon-Driven Dexterous Hand
 
 AI发展正如日中天，未来十年也不会落幕。我期待这场蛰伏，等待夏夜的到来。
 
-**我对导师的期待**：严肃科研，活泼生活。能在我困惑时给予指点，也能因我的成就真切感到高兴。
+<div class=”info-block”>
+<strong>我对导师的期待</strong>：严肃科研，活泼生活。能在我困惑时给予指点，也能因我的成就真切感到高兴。
+</div>
 
 ---
 
